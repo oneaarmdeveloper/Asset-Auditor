@@ -14,5 +14,8 @@ A foundational, pure-Java command-line tool designed to audit  IT assets. It dem
 2. Compile: `javac src/*.java`
 3. Execute: `java -cp src Auditor`
 
+## View
+<img width="895" height="94" alt="idea64_tevxQbi5Rp" src="https://github.com/user-attachments/assets/8f3e78eb-95ce-41eb-866f-153455517c20" />
+
 ## Mental Model Applied
 Source (`*.java`) → Bytecode (`*.class` via `javac`) → JVM Execution (`java`).       
